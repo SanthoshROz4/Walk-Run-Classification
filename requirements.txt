@@ -1,5 +1,6 @@
-numpy==1.26.0
-pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp311-cp311-win_amd64.whl#sha256=3a9ed5b5006a5fad640788cd8385485f98b18ac6ff9294cb25b18f3931fed352
-joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
-tensorflow==2.18.0
-streamlit @ file:///C:/b/abs_0cph0k28ex/croot/streamlit_1737558466943/work
+streamlit==1.25.0
+pandas==1.5.3
+numpy==1.23.5
+joblib==1.2.0
+tensorflow==2.11.0
+scikit-learn==1.2.2
